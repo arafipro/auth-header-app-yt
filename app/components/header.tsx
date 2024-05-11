@@ -1,6 +1,8 @@
 import { Button } from "@/components/ui/button";
 import { headerSigninLinks } from "@/constants";
 import Link from "next/link";
+import SigninButton from "./auth/signin-button";
+import UserAvatar from "./auth/user-avatar";
 
 export default function Header() {
   return (
@@ -13,6 +15,12 @@ export default function Header() {
             </Button>
           </li>
         ))}
+        <li>
+          <SigninButton>Sign in</SigninButton>
+        </li>
+        <li>
+          <UserAvatar />
+        </li>
       </ul>
     </header>
   );
