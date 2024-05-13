@@ -2,7 +2,7 @@
 
 ## YouTube
 
-[!["【Cloudflare Pages】Webアプリ必須！NextAuthで認証機能付きヘッダーを作る"](https://i.ytimg.com/vi/<>/maxresdefault.jpg)](https://youtu.be/<>)
+[!["【Cloudflare Pages】Webアプリ必須！NextAuthで認証機能付きヘッダーを作る"](https://i.ytimg.com/vi/EadIZK96lsE/maxresdefault.jpg)](https://youtu.be/EadIZK96lsE)
 
 ## 技術選定
 
