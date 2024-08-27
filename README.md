@@ -9,6 +9,7 @@
 - TypeScript
 - Next.js
 - Tailwind CSS
+- shadcn/ui
 - Auth.js(NextAuth.js) v5
 - Cloudflare Pages
 
